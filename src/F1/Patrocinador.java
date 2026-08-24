@@ -1,3 +1,5 @@
+package F1;
+
 public class Patrocinador {
     String nome;
     double valor;

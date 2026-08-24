@@ -1,3 +1,5 @@
+package F1;
+
 public class CarroF1 {
     int numero;
     int posicao;
