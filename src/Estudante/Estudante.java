@@ -1,3 +1,5 @@
+package Estudante;
+
 import java.util.Scanner;
 
 public class Estudante {

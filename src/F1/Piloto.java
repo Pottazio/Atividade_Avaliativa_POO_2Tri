@@ -1,3 +1,5 @@
+package F1;
+
 public class Piloto extends Pessoa {
     int vitorias;
 

@@ -1,3 +1,5 @@
+package F1;
+
 public class TesteFormula1 {
     public static void main(String[] args) {
 

@@ -1,7 +1,5 @@
-/**
- * Classe que representa uma lâmpada com controle de estado (acesa/apagada)
- * e potência (watts).
- */
+package Lampada;
+
 public class Lampada {
     private boolean acesa;  // Estado da lâmpada
     private int watts;      // Potência em watts
